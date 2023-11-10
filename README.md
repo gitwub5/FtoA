@@ -6,7 +6,7 @@ Khuthon 2023 project
 <img width="941" alt="image" src="https://github.com/gitwub5/FtoA/assets/132264450/7be810ce-8ec5-4009-8e90-590d01d2ea59">
 
 <img width="893" alt="image" src="https://github.com/gitwub5/FtoA/assets/132264450/8e12d05b-1c3f-4192-b994-88e00897bf80">
-
+</p>
 
 ## Architecture
 FRONTEND: React
