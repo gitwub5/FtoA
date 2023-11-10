@@ -1,6 +1,8 @@
 # FtoA 
 Khuthon 2023 project
-+ 망각곡선 활용 문제 추천 및 문제 생성 AI 서비스
++ 주제: 망각곡선 활용 문제 추천 및 문제 생성 AI 서비스
++ 의미: F만 받던 나도 이 서비스로 매일 복습하면 A대 맞을 수 있다!
++ 취지: 암기를 싫어하는 당신을 위한 최고의 도구! 문제유형1: 빈칸 추론, 문제유형2: 키워드 기반 퀴즈 문제
 
 <p align="center">
 <img width="941" alt="image" src="https://github.com/gitwub5/FtoA/assets/132264450/7be810ce-8ec5-4009-8e90-590d01d2ea59">
